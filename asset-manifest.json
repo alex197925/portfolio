@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8e30ba49.css",
-    "main.js": "/portfolio/static/js/main.687c8cb2.js",
+    "main.css": "/portfolio/static/css/main.30504823.css",
+    "main.js": "/portfolio/static/js/main.f6cc82de.js",
     "static/media/TOLOK OLEKSANDR.pdf": "/portfolio/static/media/TOLOK OLEKSANDR.b3605d365edc4ffa96e6.pdf",
+    "static/media/bill.jpg": "/portfolio/static/media/bill.6ee67f0b049550fe4f33.jpg",
+    "static/media/model-y.jpg": "/portfolio/static/media/model-y.30acb76aab6f760a753a.jpg",
+    "static/media/food.avif": "/portfolio/static/media/food.bb710cf824ad4cdcae61.avif",
+    "static/media/suitcase.jpg": "/portfolio/static/media/suitcase.d7b447c706f9d2ae71f2.jpg",
+    "static/media/borabora.jpg": "/portfolio/static/media/borabora.e6c4841f299365fdfa10.jpg",
     "static/media/logo.png": "/portfolio/static/media/logo.dcdf8775119aaba3132b.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/api.png": "/portfolio/static/media/api.2a1751133dfa317bb5e9.png",
@@ -13,11 +18,11 @@
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.8e30ba49.css.map": "/portfolio/static/css/main.8e30ba49.css.map",
-    "main.687c8cb2.js.map": "/portfolio/static/js/main.687c8cb2.js.map"
+    "main.30504823.css.map": "/portfolio/static/css/main.30504823.css.map",
+    "main.f6cc82de.js.map": "/portfolio/static/js/main.f6cc82de.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e30ba49.css",
-    "static/js/main.687c8cb2.js"
+    "static/css/main.30504823.css",
+    "static/js/main.f6cc82de.js"
   ]
 }
