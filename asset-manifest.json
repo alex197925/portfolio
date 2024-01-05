@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f15c9dd6.css",
-    "main.js": "/portfolio/static/js/main.96d932ec.js",
+    "main.css": "/portfolio/static/css/main.8e30ba49.css",
+    "main.js": "/portfolio/static/js/main.687c8cb2.js",
+    "static/media/TOLOK OLEKSANDR.pdf": "/portfolio/static/media/TOLOK OLEKSANDR.b3605d365edc4ffa96e6.pdf",
     "static/media/logo.png": "/portfolio/static/media/logo.dcdf8775119aaba3132b.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/api.png": "/portfolio/static/media/api.2a1751133dfa317bb5e9.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.f15c9dd6.css.map": "/portfolio/static/css/main.f15c9dd6.css.map",
-    "main.96d932ec.js.map": "/portfolio/static/js/main.96d932ec.js.map"
+    "main.8e30ba49.css.map": "/portfolio/static/css/main.8e30ba49.css.map",
+    "main.687c8cb2.js.map": "/portfolio/static/js/main.687c8cb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15c9dd6.css",
-    "static/js/main.96d932ec.js"
+    "static/css/main.8e30ba49.css",
+    "static/js/main.687c8cb2.js"
   ]
 }
