@@ -4,6 +4,7 @@ import Tesla from "../assets/projects/model-y.jpg";
 import Food from "../assets/projects/food.avif";
 import Suitcase from "../assets/projects/suitcase.jpg";
 import Bill from "../assets/projects/bill.jpg";
+import Cypress from "../assets/cypress.jpeg";
 
 const Work = () => {
   return (
@@ -22,6 +23,33 @@ const Work = () => {
 
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
           {/* Grid Item */}
+
+          <div
+            style={{ backgroundImage: `url(${Cypress})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100 '>
+              <span className='text-2xl font-bold text-white tracking-wide'>
+                Cypress
+              </span>
+              <div className='pt-8 text-center'>
+                <a
+                  href='https://github.com/alex197925/cypress-test-website/tree/main'
+                  target='blank'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    GitHub
+                  </button>
+                </a>
+                {/* <a
+                  href='https://github.com/alex197925/eat-n-split-react'
+                  target='blank'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    GitHub
+                  </button>
+                </a> */}
+              </div>
+            </div>
+          </div>
 
           <div
             style={{ backgroundImage: `url(${Bill})` }}
