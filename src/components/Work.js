@@ -58,6 +58,7 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wide'>
                 Eat & Split
               </span>
+              <p>React.js</p>
               <div className='pt-8 text-center'>
                 <a
                   href='https://alex197925.github.io/eat-n-split-react/'
@@ -85,6 +86,7 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wide'>
                 Travel List
               </span>
+              <p>React.js</p>
               <div className='pt-8 text-center'>
                 <a href='https://faravawtravellist.netlify.app/' target='blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -109,7 +111,8 @@ const Work = () => {
             <div className='opacity-0 group-hover:opacity-100 '>
               <span className='text-2xl font-bold text-white tracking-wide'>
                 Best Eats
-              </span>
+              </span>{" "}
+              <p>React.js</p>
               <div className='pt-8 text-center'>
                 <a
                   href='https://alex197925.github.io/food-app-react/'
@@ -137,6 +140,7 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wide'>
                 First Class Travel
               </span>
+              <p>React.js</p>
               <div className='pt-8 text-center'>
                 <a
                   href='https://travel-react-tailwind.netlify.app/'
@@ -163,6 +167,7 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wide'>
                 Tesla Clone
               </span>
+              <p>React.js</p>
               <div className='pt-8 text-center'>
                 <a href='https://tesla-clone-ea202.web.app/' target='blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
