@@ -4,7 +4,7 @@ import Tesla from "../assets/projects/model-y.jpg";
 import Food from "../assets/projects/food.avif";
 import Suitcase from "../assets/projects/suitcase.jpg";
 import Bill from "../assets/projects/bill.jpg";
-
+import Cypress from "../assets/projects/cypress.jpeg";
 const Work = () => {
   return (
     <div
