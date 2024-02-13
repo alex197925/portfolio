@@ -7,7 +7,7 @@ import ReactImg from "../assets/react.png";
 import GitHub from "../assets/github.png";
 import Bootstrap from "../assets/bootstrap.png";
 import Tailwind from "../assets/tailwind.png";
-import API from "../assets/api.png";
+import Cypress from "../assets/cypress.jpeg";
 
 const Skills = () => {
   return (
@@ -48,12 +48,12 @@ const Skills = () => {
             <p className='py-4'>Bootstrap</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-            <img className='w-20 mx-auto' src={Tailwind} alt='Bootstrap' />
+            <img className='w-20 mx-auto' src={Tailwind} alt='Tailwind' />
             <p className='py-4'>Tailwind</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-            <img className='w-20 mx-auto' src={API} alt='Bootstrap' />
-            <p className='py-4'>API</p>
+            <img className='w-20 mx-auto' src={Cypress} alt='Cypress' />
+            <p className='py-4'>Cypress</p>
           </div>
         </div>
       </div>
