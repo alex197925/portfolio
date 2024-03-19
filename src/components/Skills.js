@@ -8,6 +8,7 @@ import GitHub from "../assets/github.png";
 import Bootstrap from "../assets/bootstrap.png";
 import Tailwind from "../assets/tailwind.png";
 import Cypress from "../assets/cypress.jpeg";
+import API from "../assets/api.png";
 
 const Skills = () => {
   return (
@@ -54,6 +55,10 @@ const Skills = () => {
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={Cypress} alt='Cypress' />
             <p className='py-4'>Cypress</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={API} alt='API' />
+            <p className='py-4'>API</p>
           </div>
         </div>
       </div>
