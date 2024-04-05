@@ -5,6 +5,7 @@ import Food from "../assets/projects/food.avif";
 import Suitcase from "../assets/projects/suitcase.jpg";
 import Bill from "../assets/projects/bill.jpg";
 import Cypress from "../assets/projects/cypress.jpeg";
+import XHR from "../assets/xhr.png";
 const Work = () => {
   return (
     <div
@@ -31,9 +32,37 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wide'>
                 Cypress
               </span>
+              <p>Website test</p>
               <div className='pt-8 text-center'>
                 <a
                   href='https://github.com/alex197925/cypress-test-website/tree/main'
+                  target='blank'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    GitHub
+                  </button>
+                </a>
+                {/* <a
+                  href='https://github.com/alex197925/eat-n-split-react'
+                  target='blank'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    GitHub
+                  </button>
+                </a> */}
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${XHR})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100 '>
+              <span className='text-2xl font-bold text-white tracking-wide'>
+                Cypress
+              </span>
+              <p>Network Requests</p>
+              <div className='pt-8 text-center'>
+                <a
+                  href='https://github.com/alex197925/network-requests'
                   target='blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     GitHub
