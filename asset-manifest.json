@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7518ec37.css",
-    "main.js": "/portfolio/static/js/main.096e1cc0.js",
+    "main.css": "/portfolio/static/css/main.a5a3223e.css",
+    "main.js": "/portfolio/static/js/main.43587448.js",
     "static/media/bill.jpg": "/portfolio/static/media/bill.6ee67f0b049550fe4f33.jpg",
     "static/media/model-y.jpg": "/portfolio/static/media/model-y.30acb76aab6f760a753a.jpg",
     "static/media/food.avif": "/portfolio/static/media/food.bb710cf824ad4cdcae61.avif",
     "static/media/suitcase.jpg": "/portfolio/static/media/suitcase.d7b447c706f9d2ae71f2.jpg",
     "static/media/borabora.jpg": "/portfolio/static/media/borabora.e6c4841f299365fdfa10.jpg",
     "static/media/TOLOK OLEKSANDR.pdf": "/portfolio/static/media/TOLOK OLEKSANDR.586cecb8cefab8a00bd5.pdf",
+    "static/media/cypress.pdf": "/portfolio/static/media/cypress.822bb1db97eaca95dfdf.pdf",
     "static/media/API-testing.png": "/portfolio/static/media/API-testing.45193387bf9c1a3bbea7.png",
     "static/media/logo.png": "/portfolio/static/media/logo.dcdf8775119aaba3132b.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -20,11 +21,11 @@
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.7518ec37.css.map": "/portfolio/static/css/main.7518ec37.css.map",
-    "main.096e1cc0.js.map": "/portfolio/static/js/main.096e1cc0.js.map"
+    "main.a5a3223e.css.map": "/portfolio/static/css/main.a5a3223e.css.map",
+    "main.43587448.js.map": "/portfolio/static/js/main.43587448.js.map"
   },
   "entrypoints": [
-    "static/css/main.7518ec37.css",
-    "static/js/main.096e1cc0.js"
+    "static/css/main.a5a3223e.css",
+    "static/js/main.43587448.js"
   ]
 }
